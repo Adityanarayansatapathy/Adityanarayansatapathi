@@ -2,11 +2,15 @@
 
 <h2 align="center">Hi 👋! My name is  AdityaNarayanSatapathy</h2>
 
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently working at Project On Track<br>🎯 Goals: to Achich Good Position At  Company<br>🎲 Fun fact: i like coding and development</p>
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
