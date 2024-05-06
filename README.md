@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋! My name is  AdityaNarayanSatapathy</h2>
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently working at Project On Track<br>🎯 Goals: To Achich Good Position At My Company<br>🎲 Fun fact: I like coding and development</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently working at Project On Track<br>🎯 Goals: To Achieve Good Position At My Company<br>🎲 Fun fact: I like coding and development</p>
 
 ###
 
